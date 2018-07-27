@@ -1,0 +1,106 @@
+a {
+  text-decoration: none;
+}
+body{
+  background: white;
+}
+.rouge {
+    color: #DB4437;
+    font-size:40px;
+    font-family:arial;
+}
+.jaune {
+    color: #F4B400;
+    font-size:40px;
+    font-family:arial;
+}
+.bleu {
+    color: #4285F4;
+    font-size:40px;
+    font-family:arial;
+}
+.vert {
+    color: #0F9D58;
+    font-size:40px;
+    font-family:arial;
+}
+.lien {
+  color: #A1A1A1;
+  font-size: 15px;
+  background: #EEEEEE;
+  padding: 8px;
+  border-radius: 2px;
+}
+.lien:hover {
+  color: black;
+  font-size: 15px;
+  border: 1px solid #A1A1A1;
+  padding: 8px;
+}
+.lien:active {
+  border: 1px solid #4485f5
+}
+.seco{
+  color: white;
+  font-family: arial;
+  font-weight: bold;
+  font-size: 15px;
+  background: #4485f5;
+  padding: 8px;
+  border-radius: 2px;
+
+}
+.seco:active {
+  font-weight: bold;
+  color: white;
+  font-family: arial;
+  font-size: 15px;
+  background: #3e78d9;
+}
+.knuck1{
+  margin-top: 50px;
+  text-align: center;
+}
+.hello {
+  color: #A1A1A1;
+  font-size: 15px;
+  background: #EEEEEE;
+  padding: 8px;
+  border-radius: 2px;
+}
+.idfsg {
+    margin-top: 50px;
+}
+.hellobro {
+    margin-top: 50px;
+}
+.hello:hover {
+  color: black;
+  font-size: 15px;
+  border: 1px solid #A1A1A1;
+  padding: 8px;
+}
+.hello:active {
+  border: 1px solid #4485f5
+}
+.dawae {
+  color: #A1A1A1;
+  font-size: 15px;
+  background: #EEEEEE;
+  padding: 8px;
+  border-radius: 2px;
+  width: 90px;
+}
+.dawae:hover {
+  color: black;
+  font-size: 15px;
+  border: 1px solid #A1A1A1;
+  padding: 8px;
+}
+.dawae:active {
+  border: 1px solid #4485f5
+}
+.sltles{
+
+  text-align: center;
+}

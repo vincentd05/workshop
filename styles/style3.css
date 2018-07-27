@@ -1,0 +1,26 @@
+a {
+  text-decoration: none;
+}
+body{
+  background:#FFFFFF;
+}
+.bleu{
+    color: #4285F4;
+    font-size: 40px;
+    font-family: arial
+}
+.rouge{
+    color: #DB4437;
+    font-size: 40px;
+    font-family: arial
+}
+.jaune{
+    color: #F4B400;
+    font-size: 40px;
+    font-family: arial
+}
+.vert{
+    color: #0F9D58;
+    font-size: 40px;
+    font-family: arial
+}

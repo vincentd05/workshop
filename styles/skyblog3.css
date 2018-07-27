@@ -1,0 +1,74 @@
+p{
+  font-family: 'Kaushan Script', cursive;
+}
+a {
+  text-decoration: none;
+}
+.abc {
+  width: 190px;
+  height: 100px;
+  margin: 100px
+}
+.slt{
+    color: #BCF5A9 ;
+    font-size: 20px;
+    font-family: arial
+}
+    .bleu{
+    color: #4285F4;
+    font-size: 40px;
+    font-family: arial
+}
+      .rouge{
+    color: #DB4437;
+    font-size: 40px;
+    font-family: arial
+}
+    .jaune{
+    color: #F4B400;
+    font-size: 40px;
+    font-family: arial
+}
+    .vert{
+    color: #0F9D58;
+    font-size: 40px;
+    font-family: arial
+}
+.aaaa {
+  margin-bottom: 79px
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #9999ff;
+  font-size: 30px;
+
+}
+div nav ul {
+  display: flex;
+  width: 100%;
+  list-style: none;
+  text-align: center;
+  font-family: 'Kaushan Script', cursive;
+}
+div nav li{
+  margin: 20px;
+}
+body {
+  background: url("../images/xqD.jpg");
+  font-family: 'Kaushan Script', cursive;
+}
+* {
+  font-size: 30px;
+  font-family: 'Kaushan Script', cursive;
+  color: black;
+  text-decoration: none;
+}
+h1{
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Kaushan Script', cursive;
+  margin-left: 20px;
+  border: 1px solid white;
+  padding: 10px;

@@ -1,0 +1,87 @@
+body {
+  background: url("../images/swagmotif.jpg");
+  font-family: 'Kaushan Script', cursive;
+}
+a {
+  text-decoration: none;
+}
+    .bleu{
+    color: #4285F4;
+    font-size: 40px;
+    font-family: arial
+}
+      .rouge{
+    color: #DB4437;
+    font-size: 40px;
+    font-family: arial
+}
+    .jaune{
+    color: #F4B400;
+    font-size: 40px;
+    font-family: arial
+}
+    .vert{
+    color: #0F9D58;
+    font-size: 40px;
+    font-family: arial
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #9999ff;
+  font-size: 30px;
+
+}
+div nav ul {
+  display: flex;
+  width: 15;
+  list-style: none;
+  text-align: center;
+  font-family: 'Kaushan Script', cursive;
+}
+div nav li{
+  margin: 20px;
+}
+* {
+  font-size: 30px;
+  font-family: 'Kaushan Script', cursive;
+  color: black;
+  text-decoration: none;
+}
+h1{
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Kaushan Script', cursive;
+  margin-left: 20px;
+  border: 1px solid white;
+  padding: 10px;
+}
+.legende {
+  margin-left: 30px;
+  color: navy;
+  width: 350px;
+  text-align: center;
+  background: gold
+}
+.left {
+  float:left;
+  margin-left: 50px
+}
+.danss{
+  margin-left: 10px;
+  color: navy;
+  width: 350px;
+  text-align: center;
+  background: gold
+}
+.msn {
+  margin-right: 60px;
+  display: flex;
+  color: navy;
+  width: 485px;
+  background: gold
+}
+.bbryimg{
+  margin-left: 60px;
+}
